@@ -1,1 +1,3 @@
 # practice-user-management-operations-quimeka-saunders
+
+We learned how to use MySQL Workbench to establish a new server, define a database table, and populate it with information. The most challenging part was the installation process and establishing a connection to the workbench to allow for proper access and connectivity. The most enjoyable aspect of the assignment was writing the queries and running them in real-time to see the database change.
